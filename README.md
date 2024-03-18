@@ -1,6 +1,6 @@
-# My PORTFOLIO
+# PORTFOLIO
 *****
-### Author : Anita Kahenya March 15th 2024
+### Author : Dorcas chepkirui 18th 2024
 ****
 ## Project Description
 This is me.I share about my skills, educational background, hobbies and my favourite sports activities and also how to contact me.
@@ -48,8 +48,8 @@ Or you can access the web application directly via this [https://vikingsvariable
 3. JavaScript
 *****
 ## Contact Information
-* Email : anitakahenya1@gmail.com
+* Email : dorcaschepkirui22@gmail.com
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) 2024 Anita Kahenya
+Copyright (c) 2024 Dorcas Chepkirui
