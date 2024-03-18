@@ -45,7 +45,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 > Run using live server
 *****
 ## Live Link
-Or you can access the web application directly via this [https://vikingsvariable.netlify.app/](https://vikingsvariable.netlify.app/)
+Or you can access the web application directly via this [http://127.0.0.1:5500/index.html)
 *****
 ## Dependencies
 - Google fonts
