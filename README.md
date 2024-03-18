@@ -12,7 +12,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 
 ## SCREENSHOTS
 <<<<<<< HEAD
-- <img width="761" alt="Screenshot 2024-03-15 at 10 49 44 AM" src="https://github.com/kahenya-anita/The-Tribe-Portfolio/assets/62019551/c0f7fabc-a66b-46a1-b931-4379b3899ea6">
+
 =======
 ![Screenshot from 2024-03-18 12-35-30](https://github.com/dorcasjuanitah/Portfolio/assets/87186100/41f26a36-d4a3-4436-b6b1-2e9868e2b07e)
 
